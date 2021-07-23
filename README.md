@@ -14,12 +14,6 @@ Once you have refactored the code you can add this new feature if you like
 - "Conjured" items degrade in Quality twice as fast as normal items
      
 
-**Bonus points**
-Beyond the primary goal feel free to add any additional functionalty that would showcase your greatest skills. 
-For example if you are great with UI, you could add a shiny front end.
-Databases your thing? - great, add some persistance!
-
-
 ```
 Items have the following values:
 	string Name
@@ -36,4 +30,14 @@ Implemented Features:
 - "Backstage passes", like aged brie, increases in Quality as it's SellIn value approaches;		
 	- Quality increases by 2 when there are 10 days or less										
 	- Quality increases by 3 when there are 5 days or less										
-	- Quality drops to 0 after the concert														
+	- Quality drops to 0 after the concert
+
+# Follow up questions
+In addition to completing the task above, you will need to provide a short answer to the following questions:
+- Describe the approach you took to refactor the Gilded Rose project
+- Briefly describe what the term "clean code" means to you
+- Which of the five SOLID principles do you think is the most important and why?
+
+# Submitting your project
+Upon completion, please create an archive of your project (i.e. zip, 7z, rar), upload it to Google Drive (or similar), and generate a public download link. 
+Send the link, along with your answers to the follow up questions, to thomas.martin@royalautomobileclub.co.uk with the subject "CODING ASSIGNMENT - <Your name here>".
