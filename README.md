@@ -40,4 +40,4 @@ In addition to completing the task above, you will need to provide a short answe
 
 # Submitting your project
 Upon completion, please create an archive of your project (i.e. zip, 7z, rar), upload it to Google Drive (or similar), and generate a public download link. 
-Send the link, along with your answers to the follow up questions, to thomas.martin@royalautomobileclub.co.uk with the subject "CODING ASSIGNMENT - (Your name here)".
+Send the link, along with your answers to the follow up questions, to tom.martin5594@gmail.com with the subject "RAC CODING ASSIGNMENT - (Your name here)".
